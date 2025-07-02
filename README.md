@@ -1,4 +1,4 @@
-# NES-EMU
+# C-NES
 
 this is a work-in-progress.
 ---
